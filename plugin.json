@@ -1,0 +1,23 @@
+{
+    "version"           : "1.0.0",
+    "name"              : "ConradPayment",
+    "marketplaceName"   : {"de":"Conrad","en":"Conrad"},
+    "license"           : "MIT",
+    "pluginIcon"        : "icon_plugin_xs.png",
+    "price"             : 0.00,
+    "description"       : "Conrad Payment dummy plugin for plentymarkets online stores",
+    "shortDescription"  : {"de": "Conrad Payment","en": "Conrad Payment"},
+    "categories"        : ["3519"],
+    "author"            : "Marcus Kreusch",
+    "authorIcon"        : "icon_author_xs.png",
+    "email"             : "info@kreusch-creative.de",
+    "phone"             : "",
+    "keywords"          : [],
+    "type"              : "payment",
+    "namespace"         : "ConradPayment",
+    "serviceProvider"   : "ConradPayment\\Providers\\ConradPaymentServiceProvider",
+    "javaScriptFiles"   : [],
+    "containers"        : [],
+    "dataProviders"     : [],
+    "dependencies"      : []
+}
